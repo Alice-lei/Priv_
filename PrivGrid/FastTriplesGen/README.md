@@ -16,8 +16,8 @@ sudo apt install build-essential cmake make git libgmp-dev -y
 Clone source code:
 
 ```bash
-git clone https://github.com/Alice-lei/PrivGrid.git
-cd PrivGrid/FastTriplesGen
+git clone https://github.com/Alice-lei/Priv_.git
+cd Priv_/PrivGrid/FastTriplesGen
 ```
 
 Compile:
